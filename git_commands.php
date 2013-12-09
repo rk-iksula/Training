@@ -1,5 +1,5 @@
 <?php
 	echo "practicing git commands!"
-	echo "string";
-	echo "string";
+	echo "string123";
+	echo "string123456";
 ?>
